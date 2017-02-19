@@ -1,0 +1,46 @@
+colorscheme chocolate
+set background=light
+
+" appearance
+set number
+set title
+set showmatch
+syntax on
+set virtualedit=onemore
+set visualbell
+
+" cursor
+set cursorline
+set cursorcolumn
+
+" indenting
+set tabstop=4
+set noexpandtab
+set softtabstop=0
+set smartindent
+
+" characters
+set ignorecase
+set smartcase
+
+" search
+set showmatch
+
+" encoding
+set encoding=utf-8
+set fileencodings=iso-2022-jp,euc-jp,sjis,utf-8
+set fileformats=unix,dos,mac
+set fenc=utf-8
+
+" others
+set nobackup
+set noswapfile
+set autoread
+set hidden
+set showcmd
+set wildmode=list:longest
+set laststatus=2
+nnoremap j gj
+nnoremap k gk
+
+

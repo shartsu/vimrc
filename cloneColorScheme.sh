@@ -1,2 +1,2 @@
 #!/usr/bin/env zsh
-git clone https://github.com/flazz/vim-colorschemes.git ~/.vim
+# git clone https://github.com/flazz/vim-colorschemes.git ~/.vim
